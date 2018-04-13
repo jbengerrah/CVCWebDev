@@ -1,31 +1,39 @@
-.container {
+.container 
+{
 	width: 90%;
 	margin-left: auto;
 	margin-right: auto;
     background-color: #FFFFFF;
     
 }
-.header{
-    background-color: aquamarine;
+.header
+{
+    background-color: lightblue;
     display: block;
     width: 100%;
     height: 50px;
     border-bottom: 1px solid #353635;
-    
 }
-.menu{
+.button
+{
+  flood-color: hotpink
+}
+.menu
+{
     background-color: rgb(127, 208, 255);
     float: left;
     width: 20%;
     height: 500px;
 }
-.content{
+.content
+{
     background-color: rgb(225, 127, 255);
     float: left;
     width: 60%;
     height: 500px;
 }
-.links{
+.links
+{
     background-color: rgb(206, 255, 127);
     float: left;
     width: 20%;
