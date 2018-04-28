@@ -8,15 +8,37 @@
 }
 .header
 {
-    background-color: lightblue;
+    background-color: rgb(127, 208, 255);
     display: block;
     width: 100%;
     height: 50px;
     border-bottom: 1px solid #353635;
 }
-.button
+.btn-primary
 {
-    max-width: 100%;
+    color: #fff;
+    background-color: #8e9194;
+    border-color: #3e3f41;
+    width: 100%;
+    display: "inline-block" 
+}
+
+.btn-primary-main
+{
+    color: #fff;
+    background-color: #1ed15a;
+    border-color: #3e3f41;
+    width: 100%;
+    display: "inline-block" 
+}
+
+.btn-secondary
+{
+    color: #fff;
+    background-color: #65b37f;
+    border-color: #3e3f41;
+    width: 100%;
+    display: "inline-block"
 }
 .menu
 {
@@ -27,14 +49,14 @@
 }
 .content
 {
-    background-color: rgb(225, 127, 255);
+    background-color: rgb(127, 208, 255);
     float: left;
     width: 60%;
     height: 500px;
 }
 .links
 {
-    background-color: rgb(206, 255, 127);
+    background-color: rgb(127, 208, 255);
     float: left;
     width: 20%;
     height: 500px;
