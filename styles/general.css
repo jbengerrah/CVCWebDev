@@ -16,7 +16,7 @@
 }
 .button
 {
-  flood-color: hotpink
+    max-width: 100%;
 }
 .menu
 {
